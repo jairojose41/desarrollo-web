@@ -1,3 +1,6 @@
 prueba prueba pruebva
 
 ejwfj
+
+caso de prueba nro 3
+resultado obtenido: 54
